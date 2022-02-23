@@ -188,7 +188,7 @@ switch (shopOptionPrompt) {
     playerMoney = playerMoney - 7;
     break;
   case "leave":
-  case "LEAVE": // new case
+  case "LEAVE": // new casegit checkout
     window.alert("Leaving the store.");
 
     // do nothing, so function will end
